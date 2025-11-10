@@ -21,7 +21,7 @@
 Hi there! I’m **Mohammed Jassim**, a passionate **Flutter Developer** and **Tech Lead** based in **Abu Dhabi, UAE** 🇦🇪.  
 I specialize in building **beautiful**, **scalable**, and **performance-driven** mobile and web applications.  
 
-Currently, I lead a talented development team at **Emirates Foundation**, where we deliver impactful, user-focused digital products that drive real change.
+At **Emirates Foundation**, I design and develop scalable digital products that blend performance, usability, and impact.
 
 ---
 
