@@ -85,7 +85,6 @@
 <div align="center">
 
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=jassimpv&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub stats" />
-<img height="175px" src="https://streak-stats.demolab.com?user=jassimpv&theme=react&hide_border=true&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
 <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassimpv&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00D9FF&text_color=ffffff" alt="Top languages" />
 
 </div>
