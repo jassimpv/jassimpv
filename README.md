@@ -94,6 +94,20 @@
 
 ---
 
+### 🧩 GitHub Profile Widgets
+
+<div align="center">
+
+<a href="https://github.com/jassimpv/permissions_config"><img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=jassimpv&amp;repo=permissions_config&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=00D9FF&amp;text_color=ffffff" alt="permissions_config pinned repo" /></a>
+<a href="https://github.com/jassimpv/Survey-App-Flutter-UI"><img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=jassimpv&amp;repo=Survey-App-Flutter-UI&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=00D9FF&amp;text_color=ffffff" alt="Survey App Flutter UI pinned repo" /></a>
+<a href="https://github.com/jassimpv/jassimpv.github.io"><img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=jassimpv&amp;repo=jassimpv.github.io&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=00D9FF&amp;text_color=ffffff" alt="Portfolio repo pinned card" /></a>
+
+</div>
+
+<p align="center"><sub>These pinned cards also come from the <a href="https://github.com/anuraghazra/github-readme-stats#github-extra-pins">GitHub Readme Stats extra pins</a> widget so your profile surfaces live repo metadata.</sub></p>
+
+---
+
 ### 🚀 Featured Projects
 
 | Product                 | Focus                             | Highlights                                                                                                |
