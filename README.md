@@ -89,10 +89,6 @@
 
 </div>
 
-<p align="center"><sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> with custom theming, caching, and language tuning pulled from the official docs.</sub></p>
-
----
-
 ### 🧩 GitHub Profile Widgets
 
 <div align="center">
