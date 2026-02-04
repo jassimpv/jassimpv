@@ -44,7 +44,7 @@
 
 ### 🧭 What I’m Focused On
 
-- **Impactful civic tech:** Building apps at Emirates Foundation that amplify youth empowerment programs.
+- **Impactful civic tech:** Building apps that amplify youth empowerment programs.
 - **Tooling & velocity:** Automating CI/CD flows so teams can ship confidently every sprint.
 - **Guiding devs:** Mentoring Flutter engineers on architecture decisions, state management, and testing strategy.
 
@@ -54,7 +54,6 @@
 
 | Role                                                                          | Snapshot                                                                                                                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Flutter Developer · Emirates Foundation**<br><sub>Feb 2025 – Present</sub>  | Designing production-grade Flutter apps serving national initiatives, with a focus on accessibility, analytics, and push engagement. |
 | **Flutter Team Lead · Applaunch**<br><sub>Dec 2022 – Dec 2024</sub>           | Led 10 engineers across the SDLC, introduced CI/CD pipelines, automated QA gates, and cut release time by 30%.                       |
 | **Flutter Developer · Grapes Innovation Solutions**<br><sub>2021 – 2022</sub> | Delivered five cross-platform apps (avg rating 4.8/5), collaborated on API contracts, and spearheaded design system adoption.        |
 | **PHP Web Developer · Cignes Business Solutions**<br><sub>2020</sub>          | Built secure REST APIs, optimized DB queries by 40%, and supported legacy-to-modern migrations.                                      |
