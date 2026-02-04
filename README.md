@@ -4,7 +4,7 @@
 
 <h1>Designing human-friendly mobile & web experiences</h1>
 <p>Experienced Flutter-first engineer blending product strategy, UI polish, and scalable engineering across mobile, web, and backend surfaces.</p>
-<p>📍 Abu Dhabi, UAE · Open to remote collaboration · Currently at <strong>Emirates Foundation</strong></p>
+<p>📍 Abu Dhabi, UAE · Open to remote collaboration </p>
 
 <a href="https://jassimpv.github.io/Jassimpv.pdf"><img src="https://img.shields.io/badge/Download%20Resume-1F75FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 <a href="https://mohammedjassim-pv-ahj5sdd.gamma.site/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
